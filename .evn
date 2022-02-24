@@ -1,4 +1,4 @@
-JDBC_DATABASE_URL=jdbc:postgresql://ec2-3-219-204-29.compute-1.amazonaws.com
+JDBC_DATABASE_URL=postgresql://ec2-3-219-204-29.compute-1.amazonaws.com
 JDBC_DATABASE_USERNAME=kosawdpfzjaocu
 JDBC_DATABASE_PASSWORD=834e5d3ea8c2548bbc6a51f2916702e58bc85b2668209a7e70998cd3a9b56305
 JDBC_DATABASE_DRIVER=org.postgresql.Driver
